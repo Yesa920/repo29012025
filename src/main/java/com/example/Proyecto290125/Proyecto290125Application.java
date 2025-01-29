@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Proyecto290125Application {
 
 	public static void main(String[] args) {
-//		SpringApplication.run(Proyecto290125Application.class, args);
+//		SpringApplication.run(Proyecto290125Application.class, args);sadasdasdad
 		System.out.println("Salak");
 	}
 
