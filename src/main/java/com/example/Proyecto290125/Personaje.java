@@ -1,5 +1,5 @@
 package com.example.Proyecto290125;
 
-public class Principal {
+public class Personaje {
 
 }
